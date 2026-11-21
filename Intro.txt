@@ -1,0 +1,1 @@
+Se indican las consultas SQL realizadas sobre la base de datos de Oracle para la actividad 2 de la materia bases de datos avanzadas
